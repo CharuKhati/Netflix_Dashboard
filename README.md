@@ -35,12 +35,4 @@ The report is split into two specialized analytical views to balance high-level 
 
 ---
 
-## 5. Repository Structure
 
-```directory
-├── Assets/                 # Dashboard screenshots used in documentation
-├── Dashboard/              # Contains the .pbix file
-│   └── Netflix_Data_Dashboard.pbix
-└── Database_Scripts/       # SQL scripts for database creation and analysis
-    ├── schema_setup.sql
-    └── queries.sql
